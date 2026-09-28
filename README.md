@@ -124,30 +124,3 @@ CODSOFT_TASKSNO/
 │
 └── requirements.txt
 ```
-
-## LinkedIn Submission Requirements
-
-Per the internship document requirements:
-
-- **Hashtag:** `#codsoft` must be included in each task video posting
-- **Additional hashtags:** `#internship`, `#webdevelopment` (optional examples)
-- **Proof of work:** Video showcasing the work created and demonstrating the effort
-- **Repository:** GitHub repository link posted on LinkedIn
-- **Submission:** GitHub repository link submitted through the CodSoft task submission form when provided by email
-
-## Submission Checklist
-
-- [x] Complete Task 1 — Data Cleaning & Preprocessing
-- [x] Complete Task 2 — Exploratory Data Analysis
-- [x] Complete Task 3 — Data Visualization Dashboard
-- [x] Push all task files to the required GitHub repository
-- [x] Verify the repository is accessible
-- [x] Create a project demonstration video
-- [x] Post the video on LinkedIn
-- [x] Include the GitHub repository link in the LinkedIn post
-- [x] Include `#codsoft`
-- [x] Submit the GitHub repository link through the CodSoft task submission form
-
----
-
-*Project completed September 2026*
